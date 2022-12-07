@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace example_server_app_second.Controllers
+namespace exampledockerserver.Controllers
 {
     [ApiController]
     [Route("[controller]")]

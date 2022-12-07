@@ -1,4 +1,4 @@
-namespace example_server_app_second
+namespace exampledockerserver
 {
     public class WeatherForecast
     {
